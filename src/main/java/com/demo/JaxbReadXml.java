@@ -72,7 +72,7 @@ public class JaxbReadXml {
     
     @Test
     public void test_xml1() throws JAXBException, IOException{
-    	
+        //xml和bean要对应
     	People People = JaxbReadXml.readString(People.class, "people.xml");
     	System.out.println("姓名："+People.getName()+"  年龄："+People.getAge());
     }

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:people xmlns:ns2="abc">
+<ns2:root_people xmlns:ns2="root_ns">
     <id>001</id>
     <name>灰太狼</name>
     <age>22</age>
-</ns2:people>
+</ns2:root_people>
